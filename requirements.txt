@@ -1,0 +1,6 @@
+quart
+gunicorn
+quart_cors
+openai
+python-dotenv
+uvicorn
